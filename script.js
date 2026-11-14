@@ -1,5 +1,5 @@
 // Yahan apna Google Apps Script ka Web App URL paste karein
-const scriptURL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL'; 
+const scriptURL = 'https://script.google.com/macros/s/AKfycbyuy-0Q69THtwAEvvUbTw9WiSPK-hyU-zBu3gY9Flz1RYSXHw47NXscmqxY8_5ix_0kjA/exec'; 
 
 const form = document.getElementById('dataForm');
 const statusMessage = document.getElementById('statusMessage');
